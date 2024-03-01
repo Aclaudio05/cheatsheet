@@ -1,0 +1,36 @@
+*{background-color: lightgray;}
+
+.caption {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+    background-color: aqua;
+}
+
+.h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    color: blue;
+    background-color: aqua;
+    padding: 0;
+    margin: 50px 50px;
+}
+
+table, th, td{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: solid;
+    border-color: blue;
+    text-align: center;
+    margin: 0 auto;
+}
+
+th {
+    background-color: blue;
+    color: antiquewhite;
+}
+
+td {
+    background-color: aqua;
+}
